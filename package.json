@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/nucleic/kiwi.git"
   },
-  "main": "src/bin/kiwi.js",
+  "main": "bin/kiwi.js",
   "author": {
     "name": "Chris Colbert <sccolbert@gmail.com>"
   },
